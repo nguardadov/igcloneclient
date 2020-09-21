@@ -97,7 +97,7 @@ const CreatePost = () => {
         name="action"
         onClick={() => postDetails()}
       >
-        SignIn
+        Submit
       </button>
     </div>
   )
